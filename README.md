@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HXRipjaw
+- 👋 Hi, I’m @HaoxuanDev
 - 👀 I’m interested in Coin Collecting
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on ...
